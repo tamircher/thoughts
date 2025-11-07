@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts in a pond</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Thoughts in a pond</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Nov 2025 16:06:49 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Foundation</title>
+      <link>http://localhost:1313/posts/the-foundation/</link>
+      <pubDate>Fri, 07 Nov 2025 16:06:49 +0200</pubDate>
+      <guid>http://localhost:1313/posts/the-foundation/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;I work for an independent scientific research institution with a specialist focus on the containment of hazardous anomalous phenomena. We have an international mandate and formidable resources and&amp;hellip; unimaginable responsibilities. We&amp;hellip; we watch the blizzard. And we guard the little fire. We&amp;rsquo;re called the Foundation.&amp;rdquo; - There Is No Antimemetics Division&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>
